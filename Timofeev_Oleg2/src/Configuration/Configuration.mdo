@@ -1218,6 +1218,7 @@
   <catalogs>Catalog.Дораб_КонтакныеЛица</catalogs>
   <catalogs>Catalog.Дораб_Должности</catalogs>
   <catalogs>Catalog.Дораб_ДоставкаПрисоединенныеФайлы</catalogs>
+  <catalogs>Catalog.Дораб_Подразделения</catalogs>
   <documents>Document.ЗаказПокупателя</documents>
   <documents>Document.ОплатаОтПокупателя</documents>
   <documents>Document.ОплатаПоставщику</documents>

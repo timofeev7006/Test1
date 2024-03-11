@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Catalog xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="f0a30edc-abed-4f75-bbc3-ff031e5e7e27">
+  <producedTypes>
+    <objectType typeId="105ee6ce-027e-4057-9c54-b24fdd4111d7" valueTypeId="8ab7542b-706c-4987-99d0-aa7eb576f680"/>
+    <refType typeId="11d53e66-54c5-4569-8f51-86353bfd8769" valueTypeId="7ad53431-8286-496d-8487-d3907972b3f1"/>
+    <selectionType typeId="c6dc7303-f933-41cf-870f-50c0ac6450e8" valueTypeId="95d5f732-fb7b-43dd-8eb0-45ac35008cc6"/>
+    <listType typeId="de4e756a-2080-424f-9956-cd601e0d8eec" valueTypeId="baba687e-a6ed-4dc3-948b-fcbd96275b7b"/>
+    <managerType typeId="b23d3cd5-4fa5-42ef-997c-955c2393e7bf" valueTypeId="389827a0-e005-4cb1-b369-c76aa081e48c"/>
+  </producedTypes>
+  <name>Дораб_Подразделения</name>
+  <synonym>
+    <key>ru</key>
+    <value>Подразделения</value>
+  </synonym>
+  <useStandardCommands>true</useStandardCommands>
+  <inputByString>Catalog.Дораб_Подразделения.StandardAttribute.Code</inputByString>
+  <inputByString>Catalog.Дораб_Подразделения.StandardAttribute.Description</inputByString>
+  <fullTextSearchOnInputByString>DontUse</fullTextSearchOnInputByString>
+  <createOnInput>Use</createOnInput>
+  <dataLockControlMode>Managed</dataLockControlMode>
+  <fullTextSearch>Use</fullTextSearch>
+  <objectPresentation>
+    <key>ru</key>
+    <value>Подразделение</value>
+  </objectPresentation>
+  <levelCount>2</levelCount>
+  <foldersOnTop>true</foldersOnTop>
+  <codeLength>9</codeLength>
+  <descriptionLength>25</descriptionLength>
+  <codeType>String</codeType>
+  <codeAllowedLength>Variable</codeAllowedLength>
+  <checkUnique>true</checkUnique>
+  <autonumbering>true</autonumbering>
+  <defaultPresentation>AsDescription</defaultPresentation>
+  <editType>InDialog</editType>
+  <choiceMode>BothWays</choiceMode>
+</mdclass:Catalog>
